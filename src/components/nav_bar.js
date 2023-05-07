@@ -1,5 +1,5 @@
 const Navbar = () => {
-    return (<nav className="w-full flex justify-center sticky top-0">
+    return (<nav className="w-full flex justify-center sticky top-0 bg-white">
         <div className="flex justify-between w-[90%]  bg-white px-10 py-10">
             <h1 className="text-2xl font-AbrilFatface">CODAL</h1>
             <div>
