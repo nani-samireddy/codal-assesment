@@ -1,7 +1,7 @@
 const SectionHeading = ({ title, isLeft }) => {
   return (
     <div className="w-full h-auto flex flex-col justify-center items-center gap-10">
-      <div className="w-[80%] h-auto flex flex-col justify-center items-center gap-10 py-20">
+      <div className="w-[80%] h-auto flex flex-col justify-center items-center gap-7 py-20">
         <h1 className="text-4xl font-bold font-Montserrat text-black">
           {title}
         </h1>
