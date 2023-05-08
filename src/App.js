@@ -82,7 +82,7 @@ function App() {
             <div className="bg-blue-600 text-white px-12 py-3 rounded-md text-xl font-Montserrat font-semibold">
               For Employers
             </div>
-            <div className="border-2  bg-white text-['#6a6b70'] border-[] px-12 py-3 rounded-md text-xl font-Montserrat font-semibold">
+            <div className="border-2  bg-white text-[#707176] border-[#707176] px-12 py-3 rounded-md text-xl font-Montserrat font-semibold">
               For Job Seekers
             </div>
           </div>
